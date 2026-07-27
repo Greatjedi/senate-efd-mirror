@@ -1,0 +1,68 @@
+"""Reachability probe: can a GitHub Actions runner reach the Senate eFD
+search portal (efdsearch.senate.gov) and pull the report/data JSON?
+
+This does NOT parse filings -- it only proves the handshake + search API
+work from GitHub's egress IPs (which are NOT in senate.gov's Akamai block
+that rejects Samuel's box). If this prints recordsTotal > 0 for recent
+PTRs, the self-owned-mirror architecture is viable.
+"""
+import sys
+import requests
+
+HOME = "https://efdsearch.senate.gov/search/home/"
+DATA = "https://efdsearch.senate.gov/search/report/data/"
+UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+
+def main() -> int:
+    s = requests.Session()
+    s.headers.update({
+        "User-Agent": UA,
+        "Accept": "text/html,application/xhtml+xml,application/json",
+        "Accept-Language": "en-US,en;q=0.9",
+    })
+
+    r = s.get(HOME, timeout=30)
+    print(f"[home] status={r.status_code} csrftoken_cookie={bool(s.cookies.get('csrftoken'))}")
+    if r.status_code != 200:
+        print(f"[home] BLOCKED body[:200]={r.text[:200]!r}")
+        return 1
+
+    tok = s.cookies.get("csrftoken")
+    r2 = s.post(HOME, data={"csrfmiddlewaretoken": tok, "prohibition_agreement": "1"},
+                headers={"Referer": HOME}, timeout=30)
+    print(f"[accept] status={r2.status_code}")
+
+    tok = s.cookies.get("csrftoken")
+    payload = {
+        "draw": "1", "start": "0", "length": "25", "search[value]": "",
+        "report_types": "[11]",            # 11 = Periodic Transaction Report
+        "filer_types": "[]",
+        "submitted_start_date": "01/01/2026 00:00:00",
+        "submitted_end_date": "", "candidate_state": "", "senator_state": "",
+        "office_id": "", "first_name": "", "last_name": "",
+    }
+    r3 = s.post(DATA, data=payload,
+                headers={"Referer": HOME, "X-CSRFToken": tok,
+                         "X-Requested-With": "XMLHttpRequest"}, timeout=30)
+    print(f"[report/data] status={r3.status_code} ctype={r3.headers.get('content-type')}")
+    if r3.status_code != 200:
+        print(f"[report/data] BLOCKED body[:300]={r3.text[:300]!r}")
+        return 1
+
+    try:
+        j = r3.json()
+    except Exception as exc:  # noqa: BLE001
+        print(f"[report/data] non-JSON: {exc} body[:300]={r3.text[:300]!r}")
+        return 1
+
+    print(f"[report/data] recordsTotal={j.get('recordsTotal')} rows_in_page={len(j.get('data', []))}")
+    for row in j.get("data", [])[:5]:
+        print("  row:", row)
+    print("PROBE_RESULT:", "REACHABLE" if j.get("recordsTotal") else "EMPTY")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
