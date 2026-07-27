@@ -74,20 +74,18 @@ def main() -> int:
         if detail_path:
             break
 
+    # Save the search JSON so we can see every column the row API returns.
+    with open("artifact_search.json", "w") as f:
+        f.write(r3.text)
+
     if detail_path:
         url = "https://efdsearch.senate.gov" + detail_path
         print(f"[detail] fetching {url}")
         rd = s.get(url, headers={"Referer": HOME}, timeout=30)
         print(f"[detail] status={rd.status_code} len={len(rd.text)}")
-        html = rd.text
-        # Dump the first <table>...</table> so we see column layout + a data row.
-        tm = re.search(r"<table.*?</table>", html, re.DOTALL | re.IGNORECASE)
-        block = tm.group(0) if tm else html
-        print("[detail] TABLE_START>>>")
-        # Print in chunks so nothing is truncated by the log line limit.
-        for k in range(0, min(len(block), 8000), 500):
-            print("DETAIL:", block[k:k + 500])
-        print("[detail] <<<TABLE_END")
+        with open("artifact_detail.html", "w") as f:
+            f.write(rd.text)
+        print("[detail] saved artifact_detail.html")
     else:
         print("[detail] no electronic /ptr/ link found on this page")
 

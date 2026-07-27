@@ -17,3 +17,12 @@ jobs:
         run: pip install requests
       - name: Probe eFD reachability
         run: python probe.py
+      - name: Upload captured samples
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: efd-samples
+          path: |
+            artifact_search.json
+            artifact_detail.html
+          if-no-files-found: warn
