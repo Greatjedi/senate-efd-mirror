@@ -78,16 +78,29 @@ def main() -> int:
     with open("artifact_search.json", "w") as f:
         f.write(r3.text)
 
-    if detail_path:
-        url = "https://efdsearch.senate.gov" + detail_path
-        print(f"[detail] fetching {url}")
-        rd = s.get(url, headers={"Referer": HOME}, timeout=30)
-        print(f"[detail] status={rd.status_code} len={len(rd.text)}")
-        with open("artifact_detail.html", "w") as f:
+    # Collect up to 10 electronic /ptr/ detail links, then save each page so
+    # we can pick fixtures that contain REAL tickers (not just structured
+    # notes / "--"). Paper (/paper/) scans are image-only and skipped.
+    ptr_paths = []
+    for row in j.get("data", []):
+        for cell in row:
+            m = re.search(r'href="(/search/view/ptr/[0-9a-f-]+/)"', str(cell))
+            if m and m.group(1) not in ptr_paths:
+                ptr_paths.append(m.group(1))
+    print(f"[detail] found {len(ptr_paths)} electronic PTR links; saving up to 10")
+    for idx, path in enumerate(ptr_paths[:10]):
+        url = "https://efdsearch.senate.gov" + path
+        try:
+            rd = s.get(url, headers={"Referer": HOME}, timeout=30)
+        except Exception as exc:  # noqa: BLE001
+            print(f"[detail] {idx} ERROR {exc}")
+            continue
+        fn = f"artifact_detail_{idx:02d}.html"
+        with open(fn, "w") as f:
             f.write(rd.text)
-        print("[detail] saved artifact_detail.html")
-    else:
-        print("[detail] no electronic /ptr/ link found on this page")
+        has_ticker = bool(re.search(r"<td>\s*[A-Z]{1,5}(\.[A-Z])?\s*</td>", rd.text))
+        print(f"[detail] {idx} status={rd.status_code} len={len(rd.text)} "
+              f"maybe_real_ticker={has_ticker} {path}")
 
     print("PROBE_RESULT:", "REACHABLE" if j.get("recordsTotal") else "EMPTY")
     return 0
