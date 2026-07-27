@@ -60,6 +60,37 @@ def main() -> int:
     print(f"[report/data] recordsTotal={j.get('recordsTotal')} rows_in_page={len(j.get('data', []))}")
     for row in j.get("data", [])[:5]:
         print("  row:", row)
+
+    # Capture ONE electronic PTR detail page so we can build the parser
+    # against real HTML. Find the first /ptr/ link (skip /paper/ scans).
+    import re
+    detail_path = None
+    for row in j.get("data", []):
+        for cell in row:
+            m = re.search(r'href="(/search/view/ptr/[0-9a-f-]+/)"', str(cell))
+            if m:
+                detail_path = m.group(1)
+                break
+        if detail_path:
+            break
+
+    if detail_path:
+        url = "https://efdsearch.senate.gov" + detail_path
+        print(f"[detail] fetching {url}")
+        rd = s.get(url, headers={"Referer": HOME}, timeout=30)
+        print(f"[detail] status={rd.status_code} len={len(rd.text)}")
+        html = rd.text
+        # Dump the first <table>...</table> so we see column layout + a data row.
+        tm = re.search(r"<table.*?</table>", html, re.DOTALL | re.IGNORECASE)
+        block = tm.group(0) if tm else html
+        print("[detail] TABLE_START>>>")
+        # Print in chunks so nothing is truncated by the log line limit.
+        for k in range(0, min(len(block), 8000), 500):
+            print("DETAIL:", block[k:k + 500])
+        print("[detail] <<<TABLE_END")
+    else:
+        print("[detail] no electronic /ptr/ link found on this page")
+
     print("PROBE_RESULT:", "REACHABLE" if j.get("recordsTotal") else "EMPTY")
     return 0
 
