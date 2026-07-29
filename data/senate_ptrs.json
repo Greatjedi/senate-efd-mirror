@@ -1,5 +1,5 @@
 {
-  "count": 859,
+  "count": 873,
   "filings": [
     {
       "amount": "$15,001 - $50,000",
@@ -9449,9 +9449,163 @@
       "transaction_date": "2026-06-24",
       "type": "S",
       "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "PENNSYLVANIA ST TPK COMMN TPK REV Rate/Coupon: 5% Matures: 2030-12-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-06-29",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "CORPUS CHRISTI TEX UTIL SYS REV Rate/Coupon: 5% Matures: 2029-07-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-06-29",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "PENNSYLVANIA ST HIGHER EDL REV Rate/Coupon: 4% Matures: 2031-06-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-06-29",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "PHILADELPHIA PA AUTH FOR INDL REV Rate/Coupon: 5% Matures: 2031-12-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-06-29",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "WASHINGTON ST GO Rate/Coupon: 5% Matures: 2033-02-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-06-29",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "PENNSYLVANIA ST TPK COMMN OIL REV Rate/Coupon: 5% Matures: 2026-12-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-06-29",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "NORTHAMPTON CNTY PA GEN PURP A REV Rate/Coupon: 5% Matures: 2034-11-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-06-29",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "PHILADELPHIA PA AUTH FOR INDL REV Rate/Coupon: 5% Matures: 2028-12-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-06-30",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "POCONO MTN PA SCH DIST GEN OBLIG BDS Rate/Coupon: 5% Matures: 2051-06-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-07-08",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-07-08",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "ALLEGHENY CNTY PA GO BDS SER. C Rate/Coupon: 5% Matures: 2054-12-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-07-14",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-07-14",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-07-21",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "PITTSBURGH PA WTR & SWR AUTH WTR & SWR Rate/Coupon: 5% Matures: 2056-09-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/19fb5a84-b9f8-4847-841e-84c67a0edfe0/",
+      "report_date": "2026-07-29",
+      "senator": "David H McCormick",
+      "ticker": "",
+      "transaction_date": "2026-07-22",
+      "type": "P",
+      "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-07-28T11:30:12Z",
+  "generated_utc": "2026-07-29T11:36:14Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
