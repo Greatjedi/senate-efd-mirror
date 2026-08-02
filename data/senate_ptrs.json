@@ -1,39 +1,6 @@
 {
-  "count": 873,
+  "count": 870,
   "filings": [
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "Oracle Corporation Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4aa0094d-d9da-4a05-aa13-6d9f5d376105/",
-      "report_date": "2026-06-02",
-      "senator": "Sheldon Whitehouse",
-      "ticker": "ORCL",
-      "transaction_date": "2026-05-07",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$100,001 - $250,000",
-      "asset_description": "NVIDIA Corporation - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4aa0094d-d9da-4a05-aa13-6d9f5d376105/",
-      "report_date": "2026-06-02",
-      "senator": "Sheldon Whitehouse",
-      "ticker": "NVDA",
-      "transaction_date": "2026-05-08",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$100,001 - $250,000",
-      "asset_description": "NVIDIA Corporation - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4aa0094d-d9da-4a05-aa13-6d9f5d376105/",
-      "report_date": "2026-06-02",
-      "senator": "Sheldon Whitehouse",
-      "ticker": "NVDA",
-      "transaction_date": "2026-05-08",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
     {
       "amount": "$1,001 - $15,000",
       "asset_description": "Peloton Interactive, Inc. - Common Stock",
@@ -9605,7 +9572,7 @@
       "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-08-01T10:51:57Z",
+  "generated_utc": "2026-08-02T10:52:34Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
