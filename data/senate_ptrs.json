@@ -1,5 +1,5 @@
 {
-  "count": 870,
+  "count": 883,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -9570,9 +9570,152 @@
       "transaction_date": "2026-07-22",
       "type": "P",
       "type_raw": "Purchase"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "Jea Florida Wtr & Swr Sys Revenue Bond Rate/Coupon: 5.0% Matures: 2051-10-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-08",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Jea Florida Wtr & Swr Sys Revenue Bond Rate/Coupon: 5.0% Matures: 2051-10-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-08",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Jea Florida Wtr & Swr Sys Revenue Bond Rate/Coupon: 5.0% Matures: 2051-10-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-08",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Jea Florida Wtr & Swr Sys Revenue Bond Rate/Coupon: 5.0% Matures: 2051-10-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-08",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "Chicago Illinois Met Water Reclamation District Bond Rate/Coupon: 5.0% Matures: 2030-12-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-13",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$50,001 - $100,000",
+      "asset_description": "Ohio State Water Dev Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2046-06-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-13",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "New Jersey St Educational Facs Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2035-07-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-13",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Port Portland Oregon Airport Revenue Bond Rate/Coupon: 5.0% Matures: 2030-07-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-13",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "California State Public Works Revenue Bond Rate/Coupon: 5.0% Matures: 2030-10-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-13",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "King County Washington Sch Dist G.O. Bond Rate/Coupon: 4.0% Matures: 2036-12-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-13",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Atlanta GA Airport Revenue Bond Rate/Coupon: 5.0% Matures: 2054-07-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-13",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Atlanta GA Airport Revenue Bond Rate/Coupon: 5.0% Matures: 2054-07-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d20def77-73a7-44e0-8be0-b9b05492deed/",
+      "report_date": "2026-08-03",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2026-07-13",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Lowe's Companies, Inc. Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/96db6e64-f7c3-4483-b0aa-af10ba2bdbbd/",
+      "report_date": "2026-08-03",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "LOW",
+      "transaction_date": "2026-07-20",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-08-03T12:38:25Z",
+  "generated_utc": "2026-08-04T11:35:32Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
