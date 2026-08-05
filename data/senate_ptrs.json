@@ -1,5 +1,5 @@
 {
-  "count": 883,
+  "count": 888,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -9713,9 +9713,64 @@
       "transaction_date": "2026-07-20",
       "type": "S (partial)",
       "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Apple Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+      "report_date": "2026-08-04",
+      "senator": "Shelley M Capito",
+      "ticker": "AAPL",
+      "transaction_date": "2026-07-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Cisco Systems, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+      "report_date": "2026-08-04",
+      "senator": "Shelley M Capito",
+      "ticker": "CSCO",
+      "transaction_date": "2026-07-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Intel Corporation - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+      "report_date": "2026-08-04",
+      "senator": "Shelley M Capito",
+      "ticker": "INTC",
+      "transaction_date": "2026-07-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Coca-Cola Company (The) Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+      "report_date": "2026-08-04",
+      "senator": "Shelley M Capito",
+      "ticker": "KO",
+      "transaction_date": "2026-07-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "Microsoft Corporation - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+      "report_date": "2026-08-04",
+      "senator": "Shelley M Capito",
+      "ticker": "MSFT",
+      "transaction_date": "2026-07-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-08-04T11:35:32Z",
+  "generated_utc": "2026-08-05T11:32:29Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
