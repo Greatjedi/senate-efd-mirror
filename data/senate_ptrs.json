@@ -1,17 +1,6 @@
 {
-  "count": 1065,
+  "count": 1064,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Peloton Interactive, Inc. - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/59c6f909-ad10-429d-8a8c-df81b00cf5fd/",
-      "report_date": "2026-06-07",
-      "senator": "James Banks",
-      "ticker": "PTON",
-      "transaction_date": "2026-06-05",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
     {
       "amount": "$1,001 - $15,000",
       "asset_description": "The Kraft Heinz Company - Common Stock",
@@ -11717,7 +11706,7 @@
       "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-08-06T11:35:41Z",
+  "generated_utc": "2026-08-07T10:14:24Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
