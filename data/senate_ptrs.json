@@ -1,5 +1,5 @@
 {
-  "count": 1064,
+  "count": 1065,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -11704,10 +11704,21 @@
       "transaction_date": "2025-12-17",
       "type": "P",
       "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Realty Income Corporation Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/",
+      "report_date": "2026-08-07",
+      "senator": "Gary C Peters",
+      "ticker": "O",
+      "transaction_date": "2026-07-23",
+      "type": "P",
+      "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-08-07T10:14:24Z",
+  "generated_utc": "2026-08-08T09:57:15Z",
   "lookback_days": 60,
-  "skipped_image_only": 2,
+  "skipped_image_only": 1,
   "source": "efdsearch.senate.gov"
 }
