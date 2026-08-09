@@ -1,5 +1,5 @@
 {
-  "count": 1065,
+  "count": 1066,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -11715,9 +11715,20 @@
       "transaction_date": "2026-07-23",
       "type": "P",
       "type_raw": "Purchase"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "BERY - Berry Global Group, Inc. (Exchanged) Amcor plc Ordinary Shares (Received)",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/5ecc9b5c-07c1-4ec1-bd4a-2db759eff299/",
+      "report_date": "2026-08-08",
+      "senator": "Ron L Wyden",
+      "ticker": "-- AMCR",
+      "transaction_date": "2025-04-30",
+      "type": "E",
+      "type_raw": "Exchange"
     }
   ],
-  "generated_utc": "2026-08-08T09:57:15Z",
+  "generated_utc": "2026-08-09T09:59:43Z",
   "lookback_days": 60,
   "skipped_image_only": 1,
   "source": "efdsearch.senate.gov"
