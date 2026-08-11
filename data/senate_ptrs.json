@@ -1,17 +1,6 @@
 {
-  "count": 1066,
+  "count": 1068,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "The Kraft Heinz Company - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/be9bb561-8290-4364-85b4-06a59ef0ec01/",
-      "report_date": "2026-06-11",
-      "senator": "Gary C Peters",
-      "ticker": "KHC",
-      "transaction_date": "2026-05-21",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
     {
       "amount": "$1,001 - $15,000",
       "asset_description": "EXPEDIA GROUP INC NOTE Rate/Coupon: 5.5% Matures: 2036-04-15",
@@ -11726,9 +11715,42 @@
       "transaction_date": "2025-04-30",
       "type": "E",
       "type_raw": "Exchange"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Venus Tex Independent Sch Dist Rate/Coupon: 5.25% Matures: 2055-08-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/",
+      "report_date": "2026-08-10",
+      "senator": "John Fetterman",
+      "ticker": "",
+      "transaction_date": "2026-07-07",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Freeport McMoran Rate/Coupon: 9.5% Matures: 2031-06-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/",
+      "report_date": "2026-08-10",
+      "senator": "John Fetterman",
+      "ticker": "",
+      "transaction_date": "2026-07-24",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Hasbro Inc Note Rate/Coupon: 3.55% Matures: 2026-11-19",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/",
+      "report_date": "2026-08-10",
+      "senator": "John Fetterman",
+      "ticker": "",
+      "transaction_date": "2026-07-24",
+      "type": "S",
+      "type_raw": "Sale (Full)"
     }
   ],
-  "generated_utc": "2026-08-10T10:38:54Z",
+  "generated_utc": "2026-08-11T10:14:32Z",
   "lookback_days": 60,
   "skipped_image_only": 1,
   "source": "efdsearch.senate.gov"
