@@ -1,5 +1,5 @@
 {
-  "count": 1067,
+  "count": 1078,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -11737,9 +11737,130 @@
       "transaction_date": "2026-07-24",
       "type": "S",
       "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Central Texas Regional Mobility Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2040-01-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/",
+      "report_date": "2026-08-13",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2025-02-07",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "Port of Seattle Washington Revenue Bond Rate/Coupon: 5.0% Matures: 05/01/2026",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/",
+      "report_date": "2026-08-13",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2025-02-07",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Port of Seattle Washington Revenue Bond Rate/Coupon: 5.0% Matures: 05/01/2026",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/",
+      "report_date": "2026-08-13",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2025-02-07",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "Charlotte NC Water & Sewer Sys Revenue Bond Rate/Coupon: 5.0% Matures: 07/01/2054",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/",
+      "report_date": "2026-08-13",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2025-02-07",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Charlotte NC Water & Sewer Sys Revenue Bond Rate/Coupon: 5.0% Matures: 07/01/2054",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/",
+      "report_date": "2026-08-13",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2025-02-07",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Charlotte NC Water & Sewer Sys Revenue Bond Rate/Coupon: 5.0% Matures: 07/01/2054",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f0a05c3b-66e0-4287-a388-454e2b4c823d/",
+      "report_date": "2026-08-13",
+      "senator": "Rick Scott",
+      "ticker": "",
+      "transaction_date": "2025-02-07",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "WCAS XIV Co-Investors LLC - Constitution Surgery Alliance Company: Constitution Surgery Alliance (Avon, CT) Description: Healthcare Company",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e15641c6-d632-4b7a-82d1-45c242b1515a/",
+      "report_date": "2026-08-13",
+      "senator": "Timothy P Sheehy",
+      "ticker": "",
+      "transaction_date": "2025-06-16",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Ansett Aerospace Holdings LLC - Regaero Holdings Pty Ltd Company: Regaero Holdings Pty Ltd (Melbourne, Australia) Description: Aviation Training Facilities",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e15641c6-d632-4b7a-82d1-45c242b1515a/",
+      "report_date": "2026-08-13",
+      "senator": "Timothy P Sheehy",
+      "ticker": "",
+      "transaction_date": "2025-06-28",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "WCAS XIV Co-Investors LLC - AIA Contract Documents Company: AIA Contract Documents (Washington, DC) Description: Construction Contract Software",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e15641c6-d632-4b7a-82d1-45c242b1515a/",
+      "report_date": "2026-08-13",
+      "senator": "Timothy P Sheehy",
+      "ticker": "",
+      "transaction_date": "2025-07-08",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "WCAS XIV Co-Investors LLC - Grant Street Group Company: Grant Street Group (Pittsburgh, PA) Description: Software Company",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e15641c6-d632-4b7a-82d1-45c242b1515a/",
+      "report_date": "2026-08-13",
+      "senator": "Timothy P Sheehy",
+      "ticker": "",
+      "transaction_date": "2025-11-03",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$50,001 - $100,000",
+      "asset_description": "Max Ventures New World Opportunities Fund LP - Sana Labs AB Company: Sana Labs AB (Stockholm, Sweden) Description: Education/Training",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e15641c6-d632-4b7a-82d1-45c242b1515a/",
+      "report_date": "2026-08-13",
+      "senator": "Timothy P Sheehy",
+      "ticker": "",
+      "transaction_date": "2025-11-04",
+      "type": "S",
+      "type_raw": "Sale (Full)"
     }
   ],
-  "generated_utc": "2026-08-13T10:31:10Z",
+  "generated_utc": "2026-08-14T10:26:42Z",
   "lookback_days": 60,
   "skipped_image_only": 1,
   "source": "efdsearch.senate.gov"
