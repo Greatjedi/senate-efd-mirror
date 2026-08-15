@@ -1,5 +1,5 @@
 {
-  "count": 1078,
+  "count": 1081,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -11858,9 +11858,42 @@
       "transaction_date": "2025-11-04",
       "type": "S",
       "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$50,001 - $100,000",
+      "asset_description": "Alexandria VA GO Capital Improvement Bonds Rate/Coupon: 5.0% Matures: 2031-12-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+      "report_date": "2026-08-14",
+      "senator": "Mark R Warner",
+      "ticker": "",
+      "transaction_date": "2026-07-02",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "Virginia Beach VA GO Public Improvement Bonds Rate/Coupon: 5.0% Matures: 2031-02-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+      "report_date": "2026-08-14",
+      "senator": "Mark R Warner",
+      "ticker": "",
+      "transaction_date": "2026-07-02",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$50,001 - $100,000",
+      "asset_description": "Manassas VA GO Public Improvement Refunding Bonds Rate/Coupon: 4.0% Matures: 2032-01-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+      "report_date": "2026-08-14",
+      "senator": "Mark R Warner",
+      "ticker": "",
+      "transaction_date": "2026-07-07",
+      "type": "P",
+      "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-08-14T10:26:42Z",
+  "generated_utc": "2026-08-15T09:44:05Z",
   "lookback_days": 60,
   "skipped_image_only": 1,
   "source": "efdsearch.senate.gov"
