@@ -1,5 +1,5 @@
 {
-  "count": 1030,
+  "count": 1046,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -11330,9 +11330,185 @@
       "transaction_date": "2026-07-07",
       "type": "P",
       "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "SPYM - Tradr 2X Long SPY Monthly ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "",
+      "transaction_date": "2026-07-02",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Chevron Corporation Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "CVX",
+      "transaction_date": "2026-07-02",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Chevron Corporation Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "CVX",
+      "transaction_date": "2026-07-02",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Estee Lauder Companies, Inc. (The) Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "EL",
+      "transaction_date": "2026-07-02",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Estee Lauder Companies, Inc. (The) Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "EL",
+      "transaction_date": "2026-07-02",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Tradr 2X Long SPY Monthly ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "SPYM",
+      "transaction_date": "2026-07-02",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "The Travelers Companies, Inc. Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "TRV",
+      "transaction_date": "2026-07-02",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Aptiv PLC Ordinary Shares",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "APTV",
+      "transaction_date": "2026-07-09",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Aptiv PLC Ordinary Shares",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "APTV",
+      "transaction_date": "2026-07-09",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Home Depot, Inc. (The) Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "HD",
+      "transaction_date": "2026-07-09",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "JP Morgan Chase & Co. Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "JPM",
+      "transaction_date": "2026-07-23",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Tradr 2X Long SPY Monthly ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "SPYM",
+      "transaction_date": "2026-07-23",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Tradr 2X Long SPY Monthly ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "SPYM",
+      "transaction_date": "2026-07-23",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "PayPal Holdings, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "PYPL",
+      "transaction_date": "2026-07-30",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "PayPal Holdings, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4a558db2-e492-4e8f-8a28-7b703a5c8e08/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "PYPL",
+      "transaction_date": "2026-07-30",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Cboe Global Markets, Inc. Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/",
+      "report_date": "2026-08-17",
+      "senator": "John Boozman",
+      "ticker": "CBOE",
+      "transaction_date": "2026-07-31",
+      "type": "S",
+      "type_raw": "Sale (Full)"
     }
   ],
-  "generated_utc": "2026-08-17T10:00:48Z",
+  "generated_utc": "2026-08-18T09:51:50Z",
   "lookback_days": 60,
   "skipped_image_only": 1,
   "source": "efdsearch.senate.gov"
