@@ -1,61 +1,6 @@
 {
-  "count": 1055,
+  "count": 1064,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Berkshire Hathaway Inc. New Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/",
-      "report_date": "2026-06-25",
-      "senator": "Jerry Moran,",
-      "ticker": "BRK.B",
-      "transaction_date": "2026-05-27",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Berkshire Hathaway Inc. New Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/",
-      "report_date": "2026-06-25",
-      "senator": "Jerry Moran,",
-      "ticker": "BRK.B",
-      "transaction_date": "2026-05-27",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Berkshire Hathaway Inc. New Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/",
-      "report_date": "2026-06-25",
-      "senator": "Jerry Moran,",
-      "ticker": "BRK.B",
-      "transaction_date": "2026-05-27",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Berkshire Hathaway Inc. New Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/",
-      "report_date": "2026-06-25",
-      "senator": "Jerry Moran,",
-      "ticker": "BRK.B",
-      "transaction_date": "2026-05-27",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Alphabet Inc. - Class C Capital Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7caf1b69-3678-4420-8812-a1476a1a6158/",
-      "report_date": "2026-06-25",
-      "senator": "Jerry Moran,",
-      "ticker": "GOOG",
-      "transaction_date": "2026-05-27",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
     {
       "amount": "$250,001 - $500,000",
       "asset_description": "PENNSYLVANIA ST TPK COMMN TPK REV Rate/Coupon: 5% Matures: 2027-12-01",
@@ -11605,9 +11550,163 @@
       "transaction_date": "2025-04-22",
       "type": "P",
       "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares MSCI All Country Asia ex Japan ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "AAXJ",
+      "transaction_date": "2025-11-06",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Salesforce Inc",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "CRM",
+      "transaction_date": "2025-11-13",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares MSCI EAFE ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "EFA",
+      "transaction_date": "2025-11-20",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Goldman Sachs ActiveBeta Emerging Markets Equity E",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "GEM",
+      "transaction_date": "2025-11-20",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "NEW WORLD FUND INC - Class R-6",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "RNWGX",
+      "transaction_date": "2025-11-20",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "First Trust Exchange-Traded Fund VIII FT Energy In",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "EIPI",
+      "transaction_date": "2025-11-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Fiserv Inc",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "FISV",
+      "transaction_date": "2025-11-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "First Trust Global Tactical Commodity Strategy Fun",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "FTGC",
+      "transaction_date": "2025-11-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares Core S&P 500 ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "IVV",
+      "transaction_date": "2025-11-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares Russell 2000 ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "IWM",
+      "transaction_date": "2025-11-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Eli Lilly and Company",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "LLY",
+      "transaction_date": "2025-11-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Tortoise North Amer Pipeline Fund",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "TPYP",
+      "transaction_date": "2025-11-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Vanguard FTSE Developed Markets ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "VEA",
+      "transaction_date": "2025-11-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Vanguard Global ex-U.S. Real Estate ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "report_date": "2026-08-24",
+      "senator": "John Boozman",
+      "ticker": "VNQI",
+      "transaction_date": "2025-11-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-08-24T10:07:29Z",
+  "generated_utc": "2026-08-25T09:54:29Z",
   "lookback_days": 60,
   "skipped_image_only": 1,
   "source": "efdsearch.senate.gov"
