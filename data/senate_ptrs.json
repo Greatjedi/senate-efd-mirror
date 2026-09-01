@@ -1,17 +1,6 @@
 {
-  "count": 1059,
+  "count": 1058,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "AT&T Inc.",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/40fbe259-f282-4982-a53f-1c7278d041cd/",
-      "report_date": "2026-07-02",
-      "senator": "Gary C Peters",
-      "ticker": "T",
-      "transaction_date": "2026-06-29",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
     {
       "amount": "$1,001 - $15,000",
       "asset_description": "Citigroup New Inc (C)",
@@ -11651,7 +11640,7 @@
       "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-08-31T17:06:38Z",
+  "generated_utc": "2026-09-01T14:11:23Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
