@@ -11640,8 +11640,8 @@
       "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-09-01T14:11:23Z",
+  "generated_utc": "2026-09-02T13:43:26Z",
   "lookback_days": 60,
-  "skipped_image_only": 2,
+  "skipped_image_only": 3,
   "source": "efdsearch.senate.gov"
 }
