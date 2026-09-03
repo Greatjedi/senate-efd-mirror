@@ -1,5 +1,5 @@
 {
-  "count": 1058,
+  "count": 1063,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -11638,9 +11638,64 @@
       "transaction_date": "2026-08-07",
       "type": "S (partial)",
       "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "SDZNY- Sandoz Group AG ADR",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+      "report_date": "2026-09-02",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "",
+      "transaction_date": "2026-08-06",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Amgen Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+      "report_date": "2026-09-02",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "AMGN",
+      "transaction_date": "2026-08-12",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Lam Research Corporation - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+      "report_date": "2026-09-02",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "LRCX",
+      "transaction_date": "2026-08-13",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "NVIDIA Corporation - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+      "report_date": "2026-09-02",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "NVDA",
+      "transaction_date": "2026-08-13",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "NVIDIA Corporation - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+      "report_date": "2026-09-02",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "NVDA",
+      "transaction_date": "2026-08-13",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-09-02T13:43:26Z",
+  "generated_utc": "2026-09-03T13:39:04Z",
   "lookback_days": 60,
   "skipped_image_only": 3,
   "source": "efdsearch.senate.gov"
