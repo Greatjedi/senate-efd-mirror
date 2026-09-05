@@ -1,17 +1,6 @@
 {
-  "count": 1063,
+  "count": 1062,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Citigroup New Inc (C)",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4f4d76c6-52ab-4edb-884d-b6c43e7b1bbe/",
-      "report_date": "2026-07-06",
-      "senator": "Shelley M Capito",
-      "ticker": "",
-      "transaction_date": "2026-06-16",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
     {
       "amount": "$15,001 - $50,000",
       "asset_description": "Apple Inc. - Common Stock",
@@ -11695,7 +11684,7 @@
       "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-09-04T13:35:07Z",
+  "generated_utc": "2026-09-05T12:47:15Z",
   "lookback_days": 60,
   "skipped_image_only": 3,
   "source": "efdsearch.senate.gov"
