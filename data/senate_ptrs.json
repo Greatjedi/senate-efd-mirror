@@ -1,39 +1,6 @@
 {
-  "count": 1056,
+  "count": 1053,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "NISOURCE INC NOTE Rate/Coupon: 6.95% Matures: 2054-11-30",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/a5fdbba4-9c67-4002-b931-1cd910ce590d/",
-      "report_date": "2026-07-09",
-      "senator": "John Fetterman",
-      "ticker": "",
-      "transaction_date": "2026-06-16",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "EVERSOURCE ENERGY SER A NOTE Rate/Coupon: 6.1% Matures: 2056-08-15",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/a5fdbba4-9c67-4002-b931-1cd910ce590d/",
-      "report_date": "2026-07-09",
-      "senator": "John Fetterman",
-      "ticker": "",
-      "transaction_date": "2026-06-16",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Cheniere Energy Partners L P Note Rate/Coupon: 4.5% Matures: 2029-10-01",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/a5fdbba4-9c67-4002-b931-1cd910ce590d/",
-      "report_date": "2026-07-09",
-      "senator": "John Fetterman",
-      "ticker": "",
-      "transaction_date": "2026-06-24",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
     {
       "amount": "$1,001 - $15,000",
       "asset_description": "Boston Scientific Corporation Common Stock",
@@ -11618,7 +11585,7 @@
       "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-09-07T15:06:01Z",
+  "generated_utc": "2026-09-08T13:41:16Z",
   "lookback_days": 60,
   "skipped_image_only": 3,
   "source": "efdsearch.senate.gov"
