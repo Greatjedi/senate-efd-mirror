@@ -1,5 +1,5 @@
 {
-  "count": 1053,
+  "count": 1061,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -11583,9 +11583,97 @@
       "transaction_date": "2026-08-13",
       "type": "S (partial)",
       "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Alnylam Pharmaceuticals, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "report_date": "2026-09-09",
+      "senator": "Cory A Booker",
+      "ticker": "ALNY",
+      "transaction_date": "2026-08-11",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "Amazon.com, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "report_date": "2026-09-09",
+      "senator": "Cory A Booker",
+      "ticker": "AMZN",
+      "transaction_date": "2026-08-11",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "JD.com, Inc. - American Depositary Shares",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "report_date": "2026-09-09",
+      "senator": "Cory A Booker",
+      "ticker": "JD",
+      "transaction_date": "2026-08-11",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "McDonald's Corporation Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "report_date": "2026-09-09",
+      "senator": "Cory A Booker",
+      "ticker": "MCD",
+      "transaction_date": "2026-08-11",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Netflix, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "report_date": "2026-09-09",
+      "senator": "Cory A Booker",
+      "ticker": "NFLX",
+      "transaction_date": "2026-08-11",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "NVIDIA Corporation - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "report_date": "2026-09-09",
+      "senator": "Cory A Booker",
+      "ticker": "NVDA",
+      "transaction_date": "2026-08-11",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$50,001 - $100,000",
+      "asset_description": "webAI, Inc. Company: webAI, Inc. (Austin, TX) Description: Technology Company",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "report_date": "2026-09-09",
+      "senator": "Cory A Booker",
+      "ticker": "",
+      "transaction_date": "2026-08-18",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "TRANSCANADA PIPELINES LTD SER 2026-A Rate/Coupon: 6.125% Matures: 2056-10-17",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/a0431e36-2161-4e97-b99a-74a966d7193a/",
+      "report_date": "2026-09-09",
+      "senator": "John Fetterman",
+      "ticker": "",
+      "transaction_date": "2026-08-18",
+      "type": "P",
+      "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-09-09T13:46:17Z",
+  "generated_utc": "2026-09-10T13:40:06Z",
   "lookback_days": 60,
   "skipped_image_only": 3,
   "source": "efdsearch.senate.gov"
