@@ -1,116 +1,6 @@
 {
-  "count": 1061,
+  "count": 1060,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Boston Scientific Corporation Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/",
-      "report_date": "2026-07-13",
-      "senator": "John Boozman",
-      "ticker": "BSX",
-      "transaction_date": "2026-06-04",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "UnitedHealth Group Incorporated Common Stock (DE)",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/",
-      "report_date": "2026-07-13",
-      "senator": "John Boozman",
-      "ticker": "UNH",
-      "transaction_date": "2026-06-04",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "CEG - Constellation Energy Corporation - Common Stock When-Issued",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/",
-      "report_date": "2026-07-13",
-      "senator": "John Boozman",
-      "ticker": "",
-      "transaction_date": "2026-06-12",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Atmos Energy Corporation Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/",
-      "report_date": "2026-07-13",
-      "senator": "John Boozman",
-      "ticker": "ATO",
-      "transaction_date": "2026-06-12",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "SCHP - Schwab U.S. TIPS ETF",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/",
-      "report_date": "2026-07-13",
-      "senator": "John Boozman",
-      "ticker": "",
-      "transaction_date": "2026-06-17",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "iShares 7-10 Year Treasury Bond ETF",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/",
-      "report_date": "2026-07-13",
-      "senator": "John Boozman",
-      "ticker": "IEF",
-      "transaction_date": "2026-06-17",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "First Trust Global Tactical Commodity Strategy Fund",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/",
-      "report_date": "2026-07-13",
-      "senator": "John Boozman",
-      "ticker": "FTGC",
-      "transaction_date": "2026-06-25",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "iShares Expanded Tech-Software Sector ETF",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/",
-      "report_date": "2026-07-13",
-      "senator": "John Boozman",
-      "ticker": "IGV",
-      "transaction_date": "2026-06-25",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "abrdn Physical Palladium Shares ETF",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/",
-      "report_date": "2026-07-13",
-      "senator": "John Boozman",
-      "ticker": "PALL",
-      "transaction_date": "2026-06-25",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Tortoise North American Pipeline Fund",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/",
-      "report_date": "2026-07-13",
-      "senator": "John Boozman",
-      "ticker": "TPYP",
-      "transaction_date": "2026-06-25",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
     {
       "amount": "$1,001 - $15,000",
       "asset_description": "ACN - Accenture plc Class A Ordinary Shares (Ireland)",
@@ -11671,9 +11561,108 @@
       "transaction_date": "2026-08-18",
       "type": "P",
       "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Constellation Energy Corporation - Common Stock When-Issued",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+      "report_date": "2026-09-11",
+      "senator": "John Boozman",
+      "ticker": "CEG",
+      "transaction_date": "2026-08-13",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "First Solar, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+      "report_date": "2026-09-11",
+      "senator": "John Boozman",
+      "ticker": "FSLR",
+      "transaction_date": "2026-08-13",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Avantis U.S. Small Cap Value ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+      "report_date": "2026-09-11",
+      "senator": "John Boozman",
+      "ticker": "AVUV",
+      "transaction_date": "2026-08-19",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares Core S&P Small-Cap ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+      "report_date": "2026-09-11",
+      "senator": "John Boozman",
+      "ticker": "IJR",
+      "transaction_date": "2026-08-19",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "Westwood Quality SmallCap Fund - Westwood Quality SmallCap Fund Ultra Shares",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+      "report_date": "2026-09-11",
+      "senator": "John Boozman",
+      "ticker": "WWSYX",
+      "transaction_date": "2026-08-19",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Johnson & Johnson Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+      "report_date": "2026-09-11",
+      "senator": "John Boozman",
+      "ticker": "JNJ",
+      "transaction_date": "2026-08-20",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Tradr 2X Long SPY Monthly ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+      "report_date": "2026-09-11",
+      "senator": "John Boozman",
+      "ticker": "SPYM",
+      "transaction_date": "2026-08-20",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares Core S&P 500 ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+      "report_date": "2026-09-11",
+      "senator": "John Boozman",
+      "ticker": "IVV",
+      "transaction_date": "2026-08-27",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Otis Worldwide Corporation Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+      "report_date": "2026-09-11",
+      "senator": "John Boozman",
+      "ticker": "OTIS",
+      "transaction_date": "2026-08-27",
+      "type": "P",
+      "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-09-11T13:38:16Z",
+  "generated_utc": "2026-09-12T12:54:40Z",
   "lookback_days": 60,
   "skipped_image_only": 3,
   "source": "efdsearch.senate.gov"
