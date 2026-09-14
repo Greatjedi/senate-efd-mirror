@@ -1,5 +1,5 @@
 {
-  "count": 1060,
+  "count": 1061,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -11660,9 +11660,20 @@
       "transaction_date": "2026-08-27",
       "type": "P",
       "type_raw": "Purchase"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "EA - Electronic Arts Inc",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e67c6e56-c81e-4e74-b960-849a460165e2/",
+      "report_date": "2026-09-14",
+      "senator": "Angus S King, Jr.",
+      "ticker": "",
+      "transaction_date": "2026-08-05",
+      "type": "S",
+      "type_raw": "Sale (Full)"
     }
   ],
-  "generated_utc": "2026-09-13T13:49:57Z",
+  "generated_utc": "2026-09-14T15:55:30Z",
   "lookback_days": 60,
   "skipped_image_only": 3,
   "source": "efdsearch.senate.gov"
