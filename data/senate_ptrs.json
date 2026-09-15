@@ -1,127 +1,6 @@
 {
-  "count": 1061,
+  "count": 1050,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "ACN - Accenture plc Class A Ordinary Shares (Ireland)",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "",
-      "transaction_date": "2026-06-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "American Water Works Company, Inc. Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "AWK",
-      "transaction_date": "2026-06-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "CSX Corporation - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "CSX",
-      "transaction_date": "2026-06-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "Duke Energy Corporation (Holding Company) Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "DUK",
-      "transaction_date": "2026-06-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "Lockheed Martin Corporation Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "LMT",
-      "transaction_date": "2026-06-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "Mastercard Incorporated Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "MA",
-      "transaction_date": "2026-06-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "NextEra Energy, Inc. Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "NEE",
-      "transaction_date": "2026-06-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "Pfizer, Inc. Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "PFE",
-      "transaction_date": "2026-06-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "Procter & Gamble Company (The) Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "PG",
-      "transaction_date": "2026-06-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Tractor Supply Company - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "TSCO",
-      "transaction_date": "2026-06-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Westinghouse Air Brake Technologies Corporation Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
-      "report_date": "2026-07-16",
-      "senator": "Thomas H Tuberville",
-      "ticker": "WAB",
-      "transaction_date": "2026-06-09",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
     {
       "amount": "$50,001 - $100,000",
       "asset_description": "LVMH Moet Hennessy Louis ADR (LVMUY)",
@@ -11673,7 +11552,7 @@
       "type_raw": "Sale (Full)"
     }
   ],
-  "generated_utc": "2026-09-14T15:55:30Z",
+  "generated_utc": "2026-09-15T14:21:56Z",
   "lookback_days": 60,
   "skipped_image_only": 3,
   "source": "efdsearch.senate.gov"
