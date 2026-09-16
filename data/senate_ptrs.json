@@ -11552,8 +11552,8 @@
       "type_raw": "Sale (Full)"
     }
   ],
-  "generated_utc": "2026-09-15T14:21:56Z",
+  "generated_utc": "2026-09-16T14:14:15Z",
   "lookback_days": 60,
-  "skipped_image_only": 3,
+  "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
 }
