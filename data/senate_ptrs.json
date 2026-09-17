@@ -1,5 +1,5 @@
 {
-  "count": 1050,
+  "count": 1054,
   "filings": [
     {
       "amount": "$50,001 - $100,000",
@@ -11550,9 +11550,53 @@
       "transaction_date": "2026-08-05",
       "type": "S",
       "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Electronic Arts Inc. (EA)",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
+      "report_date": "2026-09-17",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-08-04",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "AvalonBay Communities, Inc. Common Stock (AVB) (Exchanged) VMRK - Vivmark Residential Common Shares of Beneficial Interest (Received)",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
+      "report_date": "2026-09-17",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-08-14",
+      "type": "E",
+      "type_raw": "Exchange"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $75.00 Expires: 2026-08-21",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
+      "report_date": "2026-09-17",
+      "senator": "Alan Armstrong",
+      "ticker": "WMB",
+      "transaction_date": "2026-08-19",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $75.00 Expires: 2026-08-21",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
+      "report_date": "2026-09-17",
+      "senator": "Alan Armstrong",
+      "ticker": "WMB",
+      "transaction_date": "2026-08-20",
+      "type": "P",
+      "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-09-16T14:14:15Z",
+  "generated_utc": "2026-09-17T14:19:43Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
