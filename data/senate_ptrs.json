@@ -1,28 +1,6 @@
 {
-  "count": 350,
+  "count": 348,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Canadian Imperial Bank of Commerce Trigger Autocallable Contingent Yield Notes Company: Canadian Imperial Bank of Commerce (Toronto, Ontario) Description: Equity Index-Linked Note",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/bccf83ce-dd72-4ab6-8564-b3bbb1d2ee55/",
-      "report_date": "2026-07-24",
-      "senator": "Bernie Moreno",
-      "ticker": "",
-      "transaction_date": "2026-06-22",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "BofA Finance LLC Trigger Autocallable Contingent Yield Notes Company: Bank of America Corporation (Charlotte, NC) Description: Equity Index-Linked Note",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/bccf83ce-dd72-4ab6-8564-b3bbb1d2ee55/",
-      "report_date": "2026-07-24",
-      "senator": "Bernie Moreno",
-      "ticker": "",
-      "transaction_date": "2026-06-24",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
     {
       "amount": "$100,001 - $250,000",
       "asset_description": "PENNSYLVANIA ST TPK COMMN TPK REV Rate/Coupon: 5% Matures: 2030-12-01",
@@ -3852,7 +3830,7 @@
       "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-09-22T14:04:26Z",
+  "generated_utc": "2026-09-23T14:16:31Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
