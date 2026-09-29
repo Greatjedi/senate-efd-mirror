@@ -1,5 +1,5 @@
 {
-  "count": 367,
+  "count": 368,
   "filings": [
     {
       "amount": "$100,001 - $250,000",
@@ -3676,6 +3676,17 @@
       "type_raw": "Purchase"
     },
     {
+      "amount": "Over $50,000,000",
+      "asset_description": "Greenbrier Hotel Corporation and Affiliates Company: Greenbrier Hotel Corporation and Affiliates (White Sulphur Springs, WV) Description: Hospitality",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0a93a20c-2a0f-4979-80ca-cc2f61297527/",
+      "report_date": "2026-09-28",
+      "senator": "James Conley Justice, II",
+      "ticker": "",
+      "transaction_date": "2026-08-14",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
       "amount": "$1,001 - $15,000",
       "asset_description": "MH Built to Last LLC Company: MH Built to Last LLC (New York, NY) Description: Partnership",
       "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/9e2ff733-aeac-4ce8-872c-3d6b7913da88/",
@@ -4039,7 +4050,7 @@
       "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-09-28T17:42:44Z",
+  "generated_utc": "2026-09-29T15:58:28Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
