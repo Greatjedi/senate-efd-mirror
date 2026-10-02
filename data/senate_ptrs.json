@@ -1,5 +1,5 @@
 {
-  "count": 368,
+  "count": 373,
   "filings": [
     {
       "amount": "$100,001 - $250,000",
@@ -4048,9 +4048,64 @@
       "transaction_date": "2026-09-11",
       "type": "P",
       "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Analog Devices, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "report_date": "2026-10-01",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "ADI",
+      "transaction_date": "2026-09-04",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "JP Morgan Chase & Co. Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "report_date": "2026-10-01",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "JPM",
+      "transaction_date": "2026-09-04",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$15,001 - $50,000",
+      "asset_description": "JP Morgan Chase & Co. Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "report_date": "2026-10-01",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "JPM",
+      "transaction_date": "2026-09-04",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Visa Inc.",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "report_date": "2026-10-01",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "V",
+      "transaction_date": "2026-09-04",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Visa Inc.",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "report_date": "2026-10-01",
+      "senator": "Sheldon Whitehouse",
+      "ticker": "V",
+      "transaction_date": "2026-09-04",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-10-01T16:31:03Z",
+  "generated_utc": "2026-10-02T15:52:23Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
