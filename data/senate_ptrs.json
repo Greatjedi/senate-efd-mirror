@@ -1,61 +1,6 @@
 {
-  "count": 360,
+  "count": 355,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Apple Inc. - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
-      "report_date": "2026-08-04",
-      "senator": "Shelley M Capito",
-      "ticker": "AAPL",
-      "transaction_date": "2026-07-21",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Cisco Systems, Inc. - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
-      "report_date": "2026-08-04",
-      "senator": "Shelley M Capito",
-      "ticker": "CSCO",
-      "transaction_date": "2026-07-21",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Intel Corporation - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
-      "report_date": "2026-08-04",
-      "senator": "Shelley M Capito",
-      "ticker": "INTC",
-      "transaction_date": "2026-07-21",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Coca-Cola Company (The) Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
-      "report_date": "2026-08-04",
-      "senator": "Shelley M Capito",
-      "ticker": "KO",
-      "transaction_date": "2026-07-21",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "Microsoft Corporation - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
-      "report_date": "2026-08-04",
-      "senator": "Shelley M Capito",
-      "ticker": "MSFT",
-      "transaction_date": "2026-07-21",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
     {
       "amount": "$1,001 - $15,000",
       "asset_description": "Applied Materials, Inc. - Common Stock Option Type: Put Strike price: $175.00 Expires: 01/17/2025",
@@ -3962,7 +3907,7 @@
       "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-10-03T14:20:29Z",
+  "generated_utc": "2026-10-04T14:49:33Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
