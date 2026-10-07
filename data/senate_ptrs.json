@@ -1,17 +1,6 @@
 {
-  "count": 178,
+  "count": 177,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Realty Income Corporation Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/",
-      "report_date": "2026-08-07",
-      "senator": "Gary C Peters",
-      "ticker": "O",
-      "transaction_date": "2026-07-23",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
     {
       "amount": "$100,001 - $250,000",
       "asset_description": "BERY - Berry Global Group, Inc. (Exchanged) Amcor plc Ordinary Shares (Received)",
@@ -1960,7 +1949,7 @@
       "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-10-06T16:00:48Z",
+  "generated_utc": "2026-10-07T16:37:16Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
