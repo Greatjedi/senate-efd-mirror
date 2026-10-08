@@ -1,17 +1,6 @@
 {
-  "count": 177,
+  "count": 178,
   "filings": [
-    {
-      "amount": "$100,001 - $250,000",
-      "asset_description": "BERY - Berry Global Group, Inc. (Exchanged) Amcor plc Ordinary Shares (Received)",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/5ecc9b5c-07c1-4ec1-bd4a-2db759eff299/",
-      "report_date": "2026-08-08",
-      "senator": "Ron L Wyden",
-      "ticker": "-- AMCR",
-      "transaction_date": "2025-04-30",
-      "type": "E",
-      "type_raw": "Exchange"
-    },
     {
       "amount": "$1,001 - $15,000",
       "asset_description": "Venus Tex Independent Sch Dist Rate/Coupon: 5.25% Matures: 2055-08-15",
@@ -1947,9 +1936,31 @@
       "transaction_date": "2026-09-04",
       "type": "S (partial)",
       "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "DELL INTL LLC/EMC CORP Rate/Coupon: 5.6% Matures: 2033-09-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
+      "report_date": "2026-10-07",
+      "senator": "John Fetterman",
+      "ticker": "",
+      "transaction_date": "2026-09-15",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "DELL INTL LLC/EMC CORP Rate/Coupon: 5.6% Matures: 2033-09-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
+      "report_date": "2026-10-07",
+      "senator": "John Fetterman",
+      "ticker": "",
+      "transaction_date": "2026-09-16",
+      "type": "P",
+      "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-10-07T16:37:16Z",
+  "generated_utc": "2026-10-08T16:36:03Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
