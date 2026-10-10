@@ -1,39 +1,6 @@
 {
-  "count": 178,
+  "count": 175,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Venus Tex Independent Sch Dist Rate/Coupon: 5.25% Matures: 2055-08-15",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/",
-      "report_date": "2026-08-10",
-      "senator": "John Fetterman",
-      "ticker": "",
-      "transaction_date": "2026-07-07",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Freeport McMoran Rate/Coupon: 9.5% Matures: 2031-06-01",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/",
-      "report_date": "2026-08-10",
-      "senator": "John Fetterman",
-      "ticker": "",
-      "transaction_date": "2026-07-24",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Hasbro Inc Note Rate/Coupon: 3.55% Matures: 2026-11-19",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/",
-      "report_date": "2026-08-10",
-      "senator": "John Fetterman",
-      "ticker": "",
-      "transaction_date": "2026-07-24",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
     {
       "amount": "$500,001 - $1,000,000",
       "asset_description": "Central Texas Regional Mobility Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2040-01-01",
@@ -1960,7 +1927,7 @@
       "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-10-09T16:18:45Z",
+  "generated_utc": "2026-10-10T15:27:00Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
