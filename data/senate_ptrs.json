@@ -1,105 +1,6 @@
 {
-  "count": 145,
+  "count": 136,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Broadcom Inc. - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "report_date": "2026-08-20",
-      "senator": "John Boozman",
-      "ticker": "AVGO",
-      "transaction_date": "2025-04-08",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Cboe Global Markets, Inc. Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "report_date": "2026-08-20",
-      "senator": "John Boozman",
-      "ticker": "CBOE",
-      "transaction_date": "2025-04-08",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "COLGATE PALMOLIVE LTD.",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "report_date": "2026-08-20",
-      "senator": "John Boozman",
-      "ticker": "COLPAL",
-      "transaction_date": "2025-04-08",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "iShares iBoxx $ High Yield Corporate Bond ETF",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "report_date": "2026-08-20",
-      "senator": "John Boozman",
-      "ticker": "HYG",
-      "transaction_date": "2025-04-09",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Meta Platforms Inc",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "report_date": "2026-08-20",
-      "senator": "John Boozman",
-      "ticker": "META",
-      "transaction_date": "2025-04-15",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Microsoft Corp",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "report_date": "2026-08-20",
-      "senator": "John Boozman",
-      "ticker": "MSFT",
-      "transaction_date": "2025-04-16",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Oracle Corp",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "report_date": "2026-08-20",
-      "senator": "John Boozman",
-      "ticker": "ORCL",
-      "transaction_date": "2025-04-16",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Unitedhealth Group Inc",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "report_date": "2026-08-20",
-      "senator": "John Boozman",
-      "ticker": "UNH",
-      "transaction_date": "2025-04-16",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Microsoft Corp",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "report_date": "2026-08-20",
-      "senator": "John Boozman",
-      "ticker": "MSFT",
-      "transaction_date": "2025-04-22",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
     {
       "amount": "$1,001 - $15,000",
       "asset_description": "iShares MSCI All Country Asia ex Japan ETF",
@@ -1597,7 +1498,7 @@
       "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-10-19T16:31:25Z",
+  "generated_utc": "2026-10-20T14:21:51Z",
   "lookback_days": 60,
   "skipped_image_only": 2,
   "source": "efdsearch.senate.gov"
