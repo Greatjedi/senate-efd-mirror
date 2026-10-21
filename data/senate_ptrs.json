@@ -1498,8 +1498,8 @@
       "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-10-20T14:21:51Z",
+  "generated_utc": "2026-10-21T14:31:41Z",
   "lookback_days": 60,
-  "skipped_image_only": 2,
+  "skipped_image_only": 1,
   "source": "efdsearch.senate.gov"
 }
