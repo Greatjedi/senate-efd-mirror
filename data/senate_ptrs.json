@@ -1,5 +1,5 @@
 {
-  "count": 136,
+  "count": 153,
   "filings": [
     {
       "amount": "$1,001 - $15,000",
@@ -1496,9 +1496,196 @@
       "transaction_date": "2026-09-16",
       "type": "P",
       "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares CMBS ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "CMBS",
+      "transaction_date": "2026-09-09",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares MSCI EAFE ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "EFA",
+      "transaction_date": "2026-09-09",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "GIGB",
+      "transaction_date": "2026-09-09",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares 7-10 Year Treasury Bond ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "IEF",
+      "transaction_date": "2026-09-09",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Janus Henderson Mortgage-Backed Securities ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "JMBS",
+      "transaction_date": "2026-09-09",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares MBS ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "MBB",
+      "transaction_date": "2026-09-09",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Micron Technology, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "MU",
+      "transaction_date": "2026-09-09",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Tradr 2X Long SPY Monthly ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "SPYM",
+      "transaction_date": "2026-09-09",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares 10-20 Year Treasury Bond ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "TLH",
+      "transaction_date": "2026-09-09",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Vanguard Developed Markets Index Fund - ETF Shares",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "VEA",
+      "transaction_date": "2026-09-09",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "XFIV",
+      "transaction_date": "2026-09-09",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares 10-20 Year Treasury Bond ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "TLH",
+      "transaction_date": "2026-09-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "BondBloxx Bloomberg Two Year Target Duration US Treasury ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "XTWO",
+      "transaction_date": "2026-09-21",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Cisco Systems, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "CSCO",
+      "transaction_date": "2026-09-24",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Micron Technology, Inc. - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "MU",
+      "transaction_date": "2026-09-24",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Realty Income Corporation Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "O",
+      "transaction_date": "2026-09-24",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Aptiv PLC Ordinary Shares",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/",
+      "report_date": "2026-10-21",
+      "senator": "John Boozman",
+      "ticker": "APTV",
+      "transaction_date": "2026-09-25",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-10-21T14:31:41Z",
+  "generated_utc": "2026-10-22T14:33:26Z",
   "lookback_days": 60,
   "skipped_image_only": 1,
   "source": "efdsearch.senate.gov"
