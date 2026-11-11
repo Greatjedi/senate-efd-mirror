@@ -1,105 +1,6 @@
 {
-  "count": 131,
+  "count": 121,
   "filings": [
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Constellation Energy Corporation - Common Stock When-Issued",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
-      "report_date": "2026-09-11",
-      "senator": "John Boozman",
-      "ticker": "CEG",
-      "transaction_date": "2026-08-13",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "First Solar, Inc. - Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
-      "report_date": "2026-09-11",
-      "senator": "John Boozman",
-      "ticker": "FSLR",
-      "transaction_date": "2026-08-13",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Avantis U.S. Small Cap Value ETF",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
-      "report_date": "2026-09-11",
-      "senator": "John Boozman",
-      "ticker": "AVUV",
-      "transaction_date": "2026-08-19",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "iShares Core S&P Small-Cap ETF",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
-      "report_date": "2026-09-11",
-      "senator": "John Boozman",
-      "ticker": "IJR",
-      "transaction_date": "2026-08-19",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "Westwood Quality SmallCap Fund - Westwood Quality SmallCap Fund Ultra Shares",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
-      "report_date": "2026-09-11",
-      "senator": "John Boozman",
-      "ticker": "WWSYX",
-      "transaction_date": "2026-08-19",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Johnson & Johnson Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
-      "report_date": "2026-09-11",
-      "senator": "John Boozman",
-      "ticker": "JNJ",
-      "transaction_date": "2026-08-20",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Tradr 2X Long SPY Monthly ETF",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
-      "report_date": "2026-09-11",
-      "senator": "John Boozman",
-      "ticker": "SPYM",
-      "transaction_date": "2026-08-20",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "iShares Core S&P 500 ETF",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
-      "report_date": "2026-09-11",
-      "senator": "John Boozman",
-      "ticker": "IVV",
-      "transaction_date": "2026-08-27",
-      "type": "S (partial)",
-      "type_raw": "Sale (Partial)"
-    },
-    {
-      "amount": "$1,001 - $15,000",
-      "asset_description": "Otis Worldwide Corporation Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
-      "report_date": "2026-09-11",
-      "senator": "John Boozman",
-      "ticker": "OTIS",
-      "transaction_date": "2026-08-27",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
     {
       "amount": "$15,001 - $50,000",
       "asset_description": "EA - Electronic Arts Inc",
@@ -805,17 +706,6 @@
       "type_raw": "Sale (Partial)"
     },
     {
-      "amount": "$250,001 - $500,000",
-      "asset_description": "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $80.00 Expires: 2026-12-18",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/",
-      "report_date": "2026-10-22",
-      "senator": "Alan Armstrong",
-      "ticker": "WMB",
-      "transaction_date": "2026-09-08",
-      "type": "S",
-      "type_raw": "Sale (Full)"
-    },
-    {
       "amount": "$50,001 - $100,000",
       "asset_description": "A-IC, a series of A-ST Opportunity Funds LLC Company: Intercom, Inc (New York, NY) Description: Messaging Software",
       "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/",
@@ -1443,7 +1333,7 @@
       "type_raw": "Sale (Full)"
     }
   ],
-  "generated_utc": "2026-11-09T19:54:26Z",
+  "generated_utc": "2026-11-11T17:15:23Z",
   "lookback_days": 60,
   "skipped_image_only": 0,
   "source": "efdsearch.senate.gov"
