@@ -1,5 +1,5 @@
 {
-  "count": 117,
+  "count": 121,
   "filings": [
     {
       "amount": "$15,001 - $50,000",
@@ -1287,9 +1287,53 @@
       "transaction_date": "2026-10-21",
       "type": "S",
       "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares CMBS ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/",
+      "report_date": "2026-11-17",
+      "senator": "John Boozman",
+      "ticker": "CMBS",
+      "transaction_date": "2026-10-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares BB Rated Corporate Bond ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/",
+      "report_date": "2026-11-17",
+      "senator": "John Boozman",
+      "ticker": "HYBB",
+      "transaction_date": "2026-10-21",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares MBS ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/",
+      "report_date": "2026-11-17",
+      "senator": "John Boozman",
+      "ticker": "MBB",
+      "transaction_date": "2026-10-21",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "iShares 10-20 Year Treasury Bond ETF",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/",
+      "report_date": "2026-11-17",
+      "senator": "John Boozman",
+      "ticker": "TLH",
+      "transaction_date": "2026-10-21",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-11-17T18:38:38Z",
+  "generated_utc": "2026-11-18T18:10:09Z",
   "lookback_days": 60,
   "skipped_image_only": 0,
   "source": "efdsearch.senate.gov"
