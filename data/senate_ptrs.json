@@ -1,17 +1,6 @@
 {
-  "count": 121,
+  "count": 144,
   "filings": [
-    {
-      "amount": "$15,001 - $50,000",
-      "asset_description": "Wells Fargo & Company Common Stock",
-      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/",
-      "report_date": "2026-09-21",
-      "senator": "A. Mitchell McConnell, Jr.",
-      "ticker": "WFC",
-      "transaction_date": "2026-09-01",
-      "type": "P",
-      "type_raw": "Purchase"
-    },
     {
       "amount": "Over $50,000,000",
       "asset_description": "Greenbrier Hotel Corporation and Affiliates Company: Greenbrier Hotel Corporation and Affiliates (White Sulphur Springs, WV) Description: Hospitality",
@@ -1331,9 +1320,273 @@
       "transaction_date": "2026-10-21",
       "type": "S (partial)",
       "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "WBD",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-06",
+      "type": "S",
+      "type_raw": "Sale (Full)"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "Missouri St Hwys & Trans Commn St Rd Revenue Bond Rate/Coupon: 5.0% Matures: 2030-05-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-06",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "North Tex Twy Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2031-01-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-06",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Huntsville Ala Health Care Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2035-06-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-06",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Grand Prairie Tex Indpt Sch Dist Revenue Bond Rate/Coupon: 5.0% Matures: 2031-02-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-06",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "Connecticut St General Obligation Bond Rate/Coupon: 5.0% Matures: 2038-01-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-07",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Connecticut St General Obligation Bond Rate/Coupon: 5.25% Matures: 2039-10-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-07",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "New Jersey St Transntr Fd Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2041-06-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-07",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "Philadelphia PA General Obligation Bond Rate/Coupon: 5.0% Matures: 2027-10-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-07",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Philadelphia PA General Obligation Bond Rate/Coupon: 5.0% Matures: 2036-10-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-07",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Ohio St Wtr Dev Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2040-12-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-08",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Illinois St General Obligation Bond Rate/Coupon: 5.0% Matures: 2029-03-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-13",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Harris Cnty Tex Cultural Ed Facs Revenue Bond Rate/Coupon: 5.0% Matures: 2033-12-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-14",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Texas Wtr Dev Brd Revenue Bond Rate/Coupon: 5.0% Matures: 2033-10-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-14",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Colorado Health Facs Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2029-11-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-14",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "New Jersey Economic Dev Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2032-06-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-15",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Texas Transn Commn General Obligation Mobility Bond Rate/Coupon: 5.0% Matures: 2039-10-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-16",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$100,001 - $250,000",
+      "asset_description": "Barbers Hill TX Independent Sch Revenue Bond Rate/Coupon: 5.0% Matures: 2027-02-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-21",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$500,001 - $1,000,000",
+      "asset_description": "Idaho St Tax Revenue Bond Rate/Coupon: 4.0% Matures: 2027-06-30",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-22",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Indiana St Fin Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2035-11-15",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-26",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Illinois St General Obligation Bond Rate/Coupon: 5.0% Matures: 2031-02-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-28",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Illinois St General Obligation Bond Rate/Coupon: 5.0% Matures: 2029-05-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-29",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "Alabama Toll Rd Brdg & Tunl Auth Revenue Bond Rate/Coupon: 5.0% Matures: 2032-10-01",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8f97b859-75e2-4739-8392-d375744aea97/",
+      "report_date": "2026-11-20",
+      "senator": "Alan Armstrong",
+      "ticker": "",
+      "transaction_date": "2026-10-30",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$250,001 - $500,000",
+      "asset_description": "Goldman Sachs Group, Inc. (The) Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f0f7eba0-ca09-4b80-a97b-64b6dafb835e/",
+      "report_date": "2026-11-20",
+      "senator": "Rafael E Cruz",
+      "ticker": "GS",
+      "transaction_date": "2026-11-11",
+      "type": "S (partial)",
+      "type_raw": "Sale (Partial)"
     }
   ],
-  "generated_utc": "2026-11-20T17:52:37Z",
+  "generated_utc": "2026-11-21T16:50:35Z",
   "lookback_days": 60,
   "skipped_image_only": 0,
   "source": "efdsearch.senate.gov"
