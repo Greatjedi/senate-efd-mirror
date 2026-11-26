@@ -1,5 +1,5 @@
 {
-  "count": 177,
+  "count": 180,
   "filings": [
     {
       "amount": "Over $50,000,000",
@@ -1947,9 +1947,42 @@
       "transaction_date": "2026-11-06",
       "type": "S (partial)",
       "type_raw": "Sale (Partial)"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "NVIDIA Corporation - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+      "report_date": "2026-11-25",
+      "senator": "Rand Paul",
+      "ticker": "NVDA",
+      "transaction_date": "2026-11-05",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "NVIDIA Corporation - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+      "report_date": "2026-11-25",
+      "senator": "Rand Paul",
+      "ticker": "NVDA",
+      "transaction_date": "2026-11-07",
+      "type": "P",
+      "type_raw": "Purchase"
+    },
+    {
+      "amount": "$1,001 - $15,000",
+      "asset_description": "NVIDIA Corporation - Common Stock",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+      "report_date": "2026-11-25",
+      "senator": "Rand Paul",
+      "ticker": "NVDA",
+      "transaction_date": "2026-11-09",
+      "type": "P",
+      "type_raw": "Purchase"
     }
   ],
-  "generated_utc": "2026-11-25T19:24:52Z",
+  "generated_utc": "2026-11-26T19:07:27Z",
   "lookback_days": 60,
   "skipped_image_only": 0,
   "source": "efdsearch.senate.gov"
